@@ -14,3 +14,4 @@ Inspired by [Stephanie Hurlburt's List of Engineers Willing to Mentor You](http:
 - [Marian Bida](https://www.linkedin.com/in/marianbida) - PHP, MySQL, HTML, JavaScript
 - [Ivaïlo Marinkov](https://github.com/ivaivalous) - Java, Go, Python, CI/CD, Jenkins, Quality Assurance, Automation
 - [Christian Stoynov](https://www.facebook.com/christian.stoynov) - Java, Spring framework, DB
+- [Plamen Shkodrov](https://www.facebook.com/plamen.shkodrov) - AngularJS, Web frontend technologies, Hybrid mobile technologies.
