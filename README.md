@@ -11,3 +11,4 @@ Inspired by [Stephanie Hurlburt's List of Engineers Willing to Mentor You](http:
 - [Milena Georgieva](https://www.facebook.com/milena.georgieva.12139) - Java, Data Science, DB
 - [Miroslav Georgiev](https://www.facebook.com/migush) - Python, Django, SQL
 - [Miroslav Miro](https://www.facebook.com/emandem) -  Python, Tornado 
+- [Marian Bida](https://www.linkedin.com/in/marianbida) - PHP, MySQL, HTML, JavaScript
