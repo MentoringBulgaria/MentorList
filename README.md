@@ -18,3 +18,4 @@ Inspired by [Stephanie Hurlburt's List of Engineers Willing to Mentor You](http:
 - [Todor Todorov](https://github.com/totollygeek/) - .NET, C#, WPF, Silverlight. [Blog](http://www.todorov.bg)
 - [Dimo Michev](https://www.facebook.com/profile.php?id=100004519305470) -  .Net C#, MVC, SQL
 - [Mladen Petrov](https://www.facebook.com/bksi2) - PHP, SQL, BI, MVC, Frontend
+- [Ilian Zapryanov](https://github.com/heatblazer) - C++, Qt, Java, C, GL
