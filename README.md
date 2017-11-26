@@ -16,3 +16,4 @@ Inspired by [Stephanie Hurlburt's List of Engineers Willing to Mentor You](http:
 - [Christian Stoynov](https://www.facebook.com/christian.stoynov) - Java, Spring framework, DB
 - [Plamen Shkodrov](https://www.facebook.com/plamen.shkodrov) - AngularJS, Web frontend technologies, Hybrid mobile technologies.
 - [Todor Todorov](https://github.com/totollygeek/) - .NET, C#, WPF, Silverlight. [Blog](http://www.todorov.bg)
+- [Dimo Michev](https://www.facebook.com/profile.php?id=100004519305470) -  .Net C#, MVC, SQL
