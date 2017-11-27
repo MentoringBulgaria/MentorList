@@ -21,4 +21,4 @@ Inspired by [Stephanie Hurlburt's List of Engineers Willing to Mentor You](http:
 - [Ilian Zapryanov](https://github.com/heatblazer) - C++, Qt, Java, C, OpenGL, Linux programming 
 - [Asen Marikostenliev](https://www.facebook.com/asen.mmm) -  Linux, Pen Testing, PHP, Networking
 - [Станимир Спасов](https://www.facebook.com/profile.php?id=100001474792994) - Android, Java, SQL, Bash, linux, Google App Engine, Firebase
-- [Teodor Penkov][(https://www.facebook.com/penkov.teodor) - Java, Kotlin, Swift. iOS & Android. Rx - Java/Swift
+- [Teodor Penkov](https://www.facebook.com/penkov.teodor) - Java, Kotlin, Swift. iOS & Android. Rx - Java/Swift
