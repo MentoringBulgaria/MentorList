@@ -24,3 +24,4 @@ Inspired by [Stephanie Hurlburt's List of Engineers Willing to Mentor You](http:
 - [Teodor Penkov](https://www.facebook.com/penkov.teodor) - Java, Kotlin, Swift. iOS & Android. Rx - Java/Swift
 - [Arne Mertz](https://www.linkedin.com/in/arne-mertz-b87311b0/) - C++ and Clean Code
 - [Георги Финдулов](https://www.facebook.com/georgi.findulov) - .NET, C#, ASP.NET MVC/ASP.NET Core, Entity Framework 6 / Entity Framework Core, SQL Server
+- [Vladislav Zorov](https://www.facebook.com/psionski) - Малко теория на изчисленията, малко хардуер, асемблер (х86, MIPS и ARM), C, C++, C#, PowerShell, Python, JavaScript, Common Lisp, Racket, Prolog, Haskell, Windows (Win32, WinForms, WPF, WCF).
