@@ -25,3 +25,4 @@ Inspired by [Stephanie Hurlburt's List of Engineers Willing to Mentor You](http:
 - [Arne Mertz](https://www.linkedin.com/in/arne-mertz-b87311b0/) - C++ and Clean Code
 - [Георги Финдулов](https://www.facebook.com/georgi.findulov) - .NET, C#, ASP.NET MVC/ASP.NET Core, Entity Framework 6 / Entity Framework Core, SQL Server
 - [Vladislav Zorov](https://www.facebook.com/psionski) - Малко теория на изчисленията, малко хардуер, асемблер (х86, MIPS и ARM), C, C++, C#, PowerShell, Python, JavaScript, Common Lisp, Racket, Prolog, Haskell, Windows (Win32, WinForms, WPF, WCF).
+- [Кирил Иларионов](https://www.facebook.com/kiril.ilarionov) - BSD, Debian, Apache, PostGre, ISO SQL, C++, Moodle, Perl
