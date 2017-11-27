@@ -22,3 +22,5 @@ Inspired by [Stephanie Hurlburt's List of Engineers Willing to Mentor You](http:
 - [Asen Marikostenliev](https://www.facebook.com/asen.mmm) -  Linux, Pen Testing, PHP, Networking
 - [Станимир Спасов](https://www.facebook.com/profile.php?id=100001474792994) - Android, Java, SQL, Bash, linux, Google App Engine, Firebase
 - [Teodor Penkov](https://www.facebook.com/penkov.teodor) - Java, Kotlin, Swift. iOS & Android. Rx - Java/Swift
+- [Arne Mertz](https://www.linkedin.com/in/arne-mertz-b87311b0/) - C++ and Clean Code
+- [Георги Финдулов](https://www.facebook.com/georgi.findulov) - .NET, C#, ASP.NET MVC/ASP.NET Core, Entity Framework 6 / Entity Framework Core, SQL Server
