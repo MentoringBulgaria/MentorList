@@ -6,7 +6,7 @@ Inspired by [Stephanie Hurlburt's List of Engineers Willing to Mentor You](http:
 
 Helpful read: [Introduction to Mentoring: A Guide for Mentors and Mentees](http://www.apa.org/education/grad/mentoring.aspx) by [American Psychological Association](http://www.apa.org/index.aspx)
 
-**If you are willing to joing and mentor juniors or help others make a pull request or PM any of the admins.**
+**If you are willing to join and mentor juniors or help others, make a pull request or PM any of the admins.**
 
 - [Dimitar Mirchev](https://www.linkedin.com/in/dimitar-mirchev-391b674/) - Modern C++, Windows programming, some Python, mainly py.test. Facebook, Twitter & Skype - DVMirchev
 - [Milko Kosturkov](https://www.facebook.com/mkosturkov) - Web development, mainly PhP
