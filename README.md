@@ -29,5 +29,7 @@ Helpful read: [Introduction to Mentoring: A Guide for Mentors and Mentees](http:
 - [Vladislav Zorov](https://www.facebook.com/psionski) - Малко теория на изчисленията, малко хардуер, асемблер (х86, MIPS и ARM), C, C++, C#, PowerShell, Python, JavaScript, Common Lisp, Racket, Prolog, Haskell, Windows (Win32, WinForms, WPF, WCF).
 - [Кирил Иларионов](https://www.facebook.com/kiril.ilarionov) - BSD, Debian, Apache, PostGre, ISO SQL, C++, Moodle, Perl
 - [Alexander Cheshmedjiev](https://www.linkedin.com/in/alexander-cheshmedjiev-b7022546/) - C++, SSL
+- [Nikola Katsarov](https://github.com/escapeboy) - Laravel, SQL, web (backend, frontend, servers)
 - [Cvetomir Nikolaev](https://www.facebook.com/cvetomir.goranov.98) - PHP, Laravel
 - [Тодор Балабанов](https://github.com/TodorBalabanov) - Java, C++, PHP, MySQL. todor dot balabanov at gmail.com
+
