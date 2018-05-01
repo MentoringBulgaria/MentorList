@@ -32,4 +32,5 @@ Helpful read: [Introduction to Mentoring: A Guide for Mentors and Mentees](http:
 - [Nikola Katsarov](https://github.com/escapeboy) - Laravel, SQL, web (backend, frontend, servers)
 - [Cvetomir Nikolaev](https://www.facebook.com/cvetomir.goranov.98) - PHP, Laravel
 - [Тодор Балабанов](https://github.com/TodorBalabanov) - Java, C++, PHP, MySQL. todor dot balabanov at gmail.com
+- [Габриел Кънев](https://www.facebook.com/mrgkanev) - Web development, Laravel, Debian, Nginx. Facebook, Twitter and mostly everywhere - mrgkanev
 
